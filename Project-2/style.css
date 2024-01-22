@@ -1,0 +1,24 @@
+body {
+  background-color: #e0e0e0;
+}
+
+.bg-custom {
+  background-color: #424242;
+}
+
+.header-text {
+  font-size: 22px;
+}
+
+.col-sm-4 {
+  min-height: 150px;
+}
+
+.custom-border {
+  border-radius: 17px;
+}
+
+.bg-col-space {
+  display: flex;
+  justify-content: space-between;
+}
